@@ -5,7 +5,15 @@
     "slug": "/home",
     "content": "# Home\n\n## Sub\n\nLorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Donec sed odio operae, eu vulputate felis rhoncus. Salutantibus vitae elit libero, a pharetra augue. Nihil hic munitissimus habendi senatus locus, nihil horum? A communi observantia non est recedendum.",
     "description": "Nova home ...",
-    "hero-content": [],
+    "hero-content": [
+      {
+        "ID": "76ccfebc-1b8f-42a1-9e79-c84f37886123",
+        "title": "Destaque 1",
+        "content": "<p>Bla 1</p>",
+        "link": "",
+        "createdAt": 1677709180659
+      }
+    ],
     "createdAt": 1677709018119
   }
 ]
