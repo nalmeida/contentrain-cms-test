@@ -10,7 +10,9 @@
     "createdAt": 1677710845425,
     "imgs_destaque": [
       "src/upload/1677711622537_husky.jpg"
-    ]
+    ],
+    "img_destaque": "src/upload/1677711792388_husky.jpg",
+    "updatedAt": 1677711796542
   },
   {
     "categories": [],
