@@ -12,6 +12,13 @@
         "content": "<p>Bla 1</p>",
         "link": "",
         "createdAt": 1677709180659
+      },
+      {
+        "ID": "555f361b-e3b0-4cd2-8434-fde7bd260ff1",
+        "title": "Destaque 2",
+        "content": "<p>Bla 2</p>",
+        "link": "",
+        "createdAt": 1677709191847
       }
     ],
     "createdAt": 1677709018119
