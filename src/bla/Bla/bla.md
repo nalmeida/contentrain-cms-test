@@ -1,0 +1,11 @@
+---
+ID: "6cca8624-12e8-4296-9fe6-a30646c982fe"
+title: "Novo Bla"
+slug: "bla"
+description: ""
+tags: []
+categories: []
+createdAt: 1677710499362
+
+---
+# Bla
