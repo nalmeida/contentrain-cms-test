@@ -6,6 +6,8 @@ description: ""
 tags: []
 categories: []
 createdAt: 1677710845425
+imgs_destaque:
+  - "src/upload/1677711622537_husky.jpg"
 
 ---
 # Eu sou uma página especial
